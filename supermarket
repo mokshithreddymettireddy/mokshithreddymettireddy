@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main()
+{
+int costm=200,qm=2;
+int mulm=costm*qm;
+printf("%d\n",mulm);
+
+int costg=400,qg=3;
+int mulg=costg*qg;
+printf("%d\n",mulg);
+
+int costp=350,qg=1;
+int mulp=costp*qp;
+printf("%d\n",mulp);
+
+int total;
+total=mulm+mulg+mulp;
+printf("%d\n",total);
+
+retirn 0;
+}
