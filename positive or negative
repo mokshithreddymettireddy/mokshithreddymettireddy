@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+   int a=(-6);
+   if (a>0)
+   printf("given number is positive");
+else
+printf("given number is neagtive");
+return 0;
+}
