@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main ()
+{
+   int num=153,originalnum,remainder,result=0;
+originalnum=num;
+while(originalnum!=0)
+{
+remainder=originalnum10;
+reslut+=remainder*remainder*remainder;
+originalnum/=10;
+}
+if(result==num)
+printf("%d is armstrong number",result);
+else
+printf("%d is not armastrong number",result);
+return 0;
+}
