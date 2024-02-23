@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+ int a=30,b=6;
+int sum=a+b,diff=a-b,mul=a*b,diva/b,mod=a%b;
+printf("%d\n%d\n%d\n%d\n%d\n",sum,diff,mul,div,mod);
+return 0;
+}
