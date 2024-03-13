@@ -1,0 +1,14 @@
+#include<stdio.h>
+struct bankcustomer
+{
+	char name[69];
+	char address[69];
+	int  phone;
+	int balance;
+};
+int main()
+{
+	struct bankcustomer var={"MOKSHITH REDDY mettireddy","nellore district",85567852,2345456};
+	printf("bank name: SBI\t\n name:%s\nADRESS:%s\nphone number:%d\nbalance:%d",var.name,var.address,var.phone,var.balance);
+	return 0;
+}
