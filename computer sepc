@@ -1,0 +1,14 @@
+#include<stdio.h>
+struct comp
+{
+	char manufacturer[20];
+	int refreshrate;
+      int  core;
+	
+};
+int main()
+{
+	struct comp var={"lenovo",144,7};
+	printf("computer\t\n%s\n%dhz\ni%d\n",var.manufacturer,var.refreshrate,var.core);
+	return 0;
+}
