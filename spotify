@@ -1,0 +1,14 @@
+#include<stdio.h>
+struct spotify
+{
+	char feilds[260];
+	char artist[34];
+	char album[34];
+	int  length;
+};
+int main()
+{
+	struct spotify var={"moods\n SAD\n FEEL GOOD\n dilkush\n","michael jackson","neekosamey",45};
+     printf("%s\n BY%s\n ALBUM%s\n number of songs %d\n",var.feilds,var.artist,var.album,var.length);
+     return 0;
+}
