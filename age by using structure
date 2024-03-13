@@ -1,0 +1,26 @@
+#include<stdio.h>
+struct present
+{
+	int d;
+	int m;
+	int y;
+};
+struct dob
+{
+	int d;
+	int m;
+	int y;
+} var;
+int main()
+{
+	struct present var1={ 13,03,2024};
+	struct dob var2={21,12,2005};
+	int age=var1.y-var2.y;
+	printf("age %d",age);
+	return 0;
+}
+
+
+
+
+
