@@ -1,0 +1,25 @@
+#include<stdio.h>
+int main()
+{
+    int a[5]={1,2,0,4,5};
+    int max=a[0];
+    int min=a[0];
+    int i;
+    for(i=0;i<5;i++)
+    {
+        if(a[i]>max)
+        {
+            max=a[i];
+
+        }
+        if(a[i]<min)
+        {
+            min=a[i];
+        }
+
+    }
+    printf("max num = %d\n",max);
+    printf("min num = %d",min);
+    return 0;
+
+}
