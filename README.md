@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mokshithreddymettireddy
+- 👋 Hi, I’m @mokshith
 - 👀 I’m interested in ..AI
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
