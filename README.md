@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mettireddymokshith@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: "AI is DANGerous"
 
 <!---
