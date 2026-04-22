@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mettireddymokshith@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: "AI id DANGerous"
+- ⚡ Fun fact: "AI is DANGerous"
 
 <!---
 mokshithreddymettireddy/mokshithreddymettireddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
